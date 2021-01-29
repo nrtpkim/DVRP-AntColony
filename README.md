@@ -1,7 +1,7 @@
 # DVRP-AntColony
 # Ant Colony Algorithm for Dynamic Vehicel Rounting Problem
 
-![Flow Chart](../Doc/Flow_Chart.PNG)
+![Flow Chart](Doc/Flow_Chart.PNG)
 
 <ul>
   <li>AntColony.py --> The problem only Number of orders from customers </li>
