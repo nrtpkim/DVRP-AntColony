@@ -16,7 +16,7 @@ def Step():
 
 def NumCar():
 
-    capc = 4
+    # capc = 4
     ntypecar = 4
 
     #typecar = len(ntypecar) #- 1
