@@ -4,7 +4,7 @@
 ![Flow Chart](Doc/Flow_Chart.PNG)
 
 <ul>
-  <li>AntColony.py --> The problem only Number of orders from customers </li>
+  <li>AntColony.py --> The problem only number of orders from customers </li>
   <li>AntColonyWithTime.py --> Combine dynamic problems such as time of order from client and capacity of each delivery from each vehicle</li>
 </ul>
 
